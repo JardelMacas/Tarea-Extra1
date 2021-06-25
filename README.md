@@ -39,6 +39,6 @@ Objetivos Especificos
 * Existen muchas formas de representar un mismo circuito electrico, sin embargo los conceptos fundamentales son los mismos en cada uno de ellos.
 * Tanto los dispositivos digitales como analogicos son utilizados en la actualidad para la medicion de voltaje, corriente o resistencia, tomando en cuenta las escalas respectivas de cada uno. 
 
-**4.BIBLIOGRAFÍA**
+**4. BIBLIOGRAFÍA**
 
 Floyd, T. L. (2007). Principios de Circuitos Electricos. Mexico: PEARSON EDUCACIÓN.
