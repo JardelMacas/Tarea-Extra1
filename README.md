@@ -18,7 +18,22 @@ Objetivos Especificos
 
 
 **2.EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS**
-
+![](https://github.com/JardelMacas/Tarea-Extra1/blob/main/Ejercicios/EjerCap2Floyd-01.png )
+![](https://github.com/JardelMacas/Tarea-Extra1/blob/main/Ejercicios/EjerCap2Floyd-02.png )
+![](https://github.com/JardelMacas/Tarea-Extra1/blob/main/Ejercicios/EjerCap2Floyd-03.png )
+![](https://github.com/JardelMacas/Tarea-Extra1/blob/main/Ejercicios/EjerCap2Floyd-04.png )
+![](https://github.com/JardelMacas/Tarea-Extra1/blob/main/Ejercicios/EjerCap2Floyd-05.png )
+![](https://github.com/JardelMacas/Tarea-Extra1/blob/main/Ejercicios/EjerCap2Floyd-06.png )
+![](https://github.com/JardelMacas/Tarea-Extra1/blob/main/Ejercicios/EjerCap2Floyd-07.png )
+![](https://github.com/JardelMacas/Tarea-Extra1/blob/main/Ejercicios/EjerCap2Floyd-08.png )
+![](https://github.com/JardelMacas/Tarea-Extra1/blob/main/Ejercicios/EjerCap2Floyd-09.png )
+![](https://github.com/JardelMacas/Tarea-Extra1/blob/main/Ejercicios/EjerCap2Floyd-10.png )
+![](https://github.com/JardelMacas/Tarea-Extra1/blob/main/Ejercicios/EjerCap2Floyd-11.png )
+![](https://github.com/JardelMacas/Tarea-Extra1/blob/main/Ejercicios/EjerCap2Floyd-12.png )
+![](https://github.com/JardelMacas/Tarea-Extra1/blob/main/Ejercicios/EjerCap2Floyd-13.png )
+![](https://github.com/JardelMacas/Tarea-Extra1/blob/main/Ejercicios/EjerCap2Floyd-14.png )
+![](https://github.com/JardelMacas/Tarea-Extra1/blob/main/Ejercicios/EjerCap2Floyd-15.png )
+![](https://github.com/JardelMacas/Tarea-Extra1/blob/main/Ejercicios/EjerCap2Floyd-16.png )
 
 **3. CONCLUSIONES**
 
