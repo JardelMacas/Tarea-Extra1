@@ -1,8 +1,6 @@
 # Informe Tarea Extra Parcial 1
 
-# INFORME TAREA 3 
-
-AUTOR:JARDEL MACAS
+AUTOR: JARDEL MACAS
 
 **1 . OBJETIVOS**
 
